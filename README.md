@@ -1,4 +1,5 @@
-Hi there, I'm [Chinmaya Kumar Biswal](https://chinmayakumarbiswal.in/) 👋
+
+<h1>Hi there, I'm <a href="https://chinmayakumarbiswal.in/">Chinmaya Kumar Biswal </a>👋</h1>
 
 •	🔭 I’m currently a Student!!!
 
