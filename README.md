@@ -1,7 +1,7 @@
 
 <h1>Hi there, I'm <a href="https://chinmayakumarbiswal.in/">Chinmaya Kumar Biswal </a>👋</h1>
 
-<img src="https://tenor.com/view/budding-pop-cute-adorable-blush-leaf-gif-15514789"height="100px" width="100px"> 
+<img src="https://tenor.com/view/budding-pop-cute-adorable-blush-leaf-gif-15514789" height="100px" width="100px"> 
 
 •	🔭 I’m currently a Student!!!
 
