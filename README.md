@@ -31,7 +31,7 @@
       <img src="https://exploitus.chinmayakumarbiswal.in/image/twitter.png" height="40px" width="40px">
    </a>
 
-
+<img src="https://chinmayakumarbiswal.github.io/chinmayakumarbiswal/4.gif" height="400px" width="600px"> 
 <h1>Describe about  me</h1>
 
 
