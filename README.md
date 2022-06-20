@@ -35,8 +35,10 @@
 <h1>Describe about  me</h1>
 
 
-⚡ I am currently pursuing Bachelor of Science in Cloud Technology and Information Security  from Centurion University of Technology and Management , BBSR , Odisha .
+⚡ I am currently pursuing Master in Computer Application from Centurion University of Technology and Management , BBSR , Odisha .
 
 ⚡ I am looking for growth. Currently, I’m looking for for internships and research projects in the field of Cloud Computing and to build up my career and skills. 
 <hr>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chinmayakumarbiswal&layout=compact&theme=buefy" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmayakumarbiswal&show_icons=true&theme=outrun" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=outrun" />
+
