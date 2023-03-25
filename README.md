@@ -40,5 +40,6 @@
 ⚡ I am looking for growth. Currently, I’m looking for for internships and research projects in the field of Cloud Computing and to build up my career and skills. 
 <hr>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmayakumarbiswal&show_icons=true&theme=outrun" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmayakumarbiswal&theme=outrun&hide_border=false" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=outrun" />
 
