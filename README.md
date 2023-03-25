@@ -1,7 +1,7 @@
 
 <h1>Hi there, I'm <a href="https://chinmayakumarbiswal.in/">Chinmaya Kumar Biswal </a>👋</h1>
 
-<img src="https://chinmayakumarbiswal.github.io/chinmayakumarbiswal/hi.gif" height="300px" width="300px"> 
+<img src="https://chinmayakumarbiswal.github.io/chinmayakumarbiswal/welcome.gif" height="300px" width="300px"> 
 
 •	🔭 I’m currently a Student!!!
 
@@ -31,7 +31,7 @@
       <img src="https://exploitus.chinmayakumarbiswal.in/image/twitter.png" height="40px" width="40px">
    </a>
 <br>
-<img src="https://chinmayakumarbiswal.github.io/chinmayakumarbiswal/4.gif" height="400px" width="600px"> 
+<img src="https://chinmayakumarbiswal.github.io/chinmayakumarbiswal/work.gif" height="400px" width="600px"> 
 <h1>Describe about  me</h1>
 
 
