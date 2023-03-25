@@ -88,5 +88,13 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Chinmaya_situ&theme=outrun)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
+### Thanks for Visiting my GitHub Profile!
+
+---
+<p align="center">
+<img src="https://chinmayakumarbiswal.github.io/chinmayakumarbiswal/snake.svg">
+</p>
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=chinmayakumarbiswal&icon=7&color=10)](https://visitcount.itsvg.in)
