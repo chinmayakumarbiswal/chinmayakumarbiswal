@@ -86,7 +86,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=chinmayakumarbiswal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Chinmaya_situ&theme=outrun)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<img src="https://gtce.itsvg.in/api?username=Chinmaya_situ&theme=outrun" height="auto" width="50%"/>
 
 ### Thanks for Visiting my GitHub Profile!
 
@@ -97,4 +97,4 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chinmayakumarbiswal&icon=7&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=chinmayakumarbiswal&icon=7&color=10)](https://chinmayakumarbiswal.in)
