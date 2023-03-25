@@ -77,16 +77,16 @@
 
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=chinmayakumarbiswal&show_icons=true&theme=outrun&count_private=true" height="auto" width="50%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmayakumarbiswal&theme=outrun&hide_border=false" height="auto" width="50%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=outrun" height="auto" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chinmayakumarbiswal&show_icons=true&theme=outrun&count_private=true" height="auto" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmayakumarbiswal&theme=outrun&hide_border=false" height="auto" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=outrun" height="auto" width="100%"/>
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chinmayakumarbiswal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-<img src="https://gtce.itsvg.in/api?username=Chinmaya_situ&theme=outrun" height="auto" width="50%"/>
+<img src="https://gtce.itsvg.in/api?username=Chinmaya_situ&theme=outrun" height="auto" width="100%"/>
 
 ### Thanks for Visiting my GitHub Profile!
 
