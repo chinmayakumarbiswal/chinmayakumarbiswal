@@ -77,7 +77,7 @@
 
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=chinmayakumarbiswal&show_icons=true&theme=outrun" height="auto" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chinmayakumarbiswal&show_icons=true&theme=outrun&count_private=true" height="auto" width="50%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmayakumarbiswal&theme=outrun&hide_border=false" height="auto" width="50%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=outrun" height="auto" width="50%"/>
 
