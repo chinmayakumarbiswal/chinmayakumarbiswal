@@ -24,7 +24,7 @@
    <a href="https://www.instagram.com/chinmaya.situ/">
       <img src="https://exploitus.chinmayakumarbiswal.in/image/instagram.png" height="40px" width="40px">
     </a>
-    <a href="https://www.linkedin.com/in/chinmaya-kumar-biswal-16045">
+    <a href="https://www.linkedin.com/in/chinmayakumarbiswal/">
        <img src="https://exploitus.chinmayakumarbiswal.in/image/linkedin.png" height="40px" width="40px">
    </a>
     <a href="https://twitter.com/Chinmaya_situ?s=09">
